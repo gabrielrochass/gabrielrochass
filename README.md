@@ -10,8 +10,8 @@
 
 <p align='left'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=gabrielrochass&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielrochass)](https://github.com/gabrielrochass/github-readme-stats" width="350"></a>
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielrochass)](https://github.com/gabrielrochass/github-readme-stats)
 
 ####
 
