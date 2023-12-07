@@ -37,7 +37,7 @@ Eu também gosto de programação competitiva, uso Java e python para estudar al
   <img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/github/github-original.svg">
   <img align="center" alt="R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/r/r-original.svg">
   <img align="center" alt="RStudio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/rstudio/rstudio-original.svg">
-  <img align="center" alt="Assembly" height="30" width="40" src="https://www.svgrepo.com/show/373445/assembly.svg>
+  <img align="center" alt="Assembly" height="30" width="40" src="https://www.svgrepo.com/show/373445/assembly.svg">
   <img align="center" alt="Verilog" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdf3RJ-vlssN37alO5L2nwaG0U2FbrjWAQyDnxxuAK0Bfj_1W2_bejBTVthfxivMzMfi8&usqp=CAU">
   <img align="center" alt="Swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/swift/swift-original.svg">
   <img align="center" alt="Wordpress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/wordpress/wordpress-original.svg">
