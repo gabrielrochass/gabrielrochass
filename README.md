@@ -1,7 +1,7 @@
 
 
 <h1 align='left'>
-  Olá, meu nome é Gabriel! 👨‍💻
+  Olá, meu nome é Gabriel!/ 𝘏𝘪, 𝘐'𝘮 𝘎𝘢𝘣𝘳𝘪𝘦𝘭! 👨‍💻
 </h1>
 
 <p align='left'>
@@ -15,7 +15,7 @@
 
 ####
 
-<h2>👨 Sobre mim</h2>
+<h2>Sobre mim/ 𝘈𝘣𝘰𝘶𝘵 𝘮𝘦</h2>
 
 <p>Olá, sou desenvolvedor FullStack, Linux evangelist, engenheiro de software e entusiasta de open-source, gosto de criar projetos e aplicativos.
 
@@ -26,7 +26,7 @@ Eu também gosto de programação competitiva, uso Java e python para estudar al
 
 </p>
 
-<h2>💻 Habilidades</h2>
+<h2>𝘚𝘬𝘪𝘭𝘭𝘴 💻 </h2>
 <p>
   <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
