@@ -39,7 +39,7 @@
   <img align="center" alt="Wordpress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/wordpress/wordpress-original.svg">
 </div>
 </p>
-<h2>Onde me encontrar/ 𝘞𝘩𝘦𝘳𝘦 𝘺𝘰𝘶 𝘤𝘢𝘯 𝘧𝘪𝘯𝘥 𝘮𝘦 🖱️</h2>
+<h2>Onde me encontrar/𝘞𝘩𝘦𝘳𝘦 𝘺𝘰𝘶 𝘤𝘢𝘯 𝘧𝘪𝘯𝘥 𝘮𝘦 🖱️</h2>
 </a> <a href="https://www.linkedin.com/in/gabrielrochass/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-46a2f1.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@grss_74794" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-46a2f1.svg?&style=for-the-badge&logo=medium&logoColor=gray&color=black" /></a> <a href="https://leetcode.com/user4380lm/" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/leetcode-46a2f1.svg?&style=for-the-badge&logo=leetcode&logoColor=yellow&color=gray" /></a>
 </p>
 
