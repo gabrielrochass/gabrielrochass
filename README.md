@@ -16,14 +16,10 @@
 ####
 
 <h2>Sobre mim/ 𝘈𝘣𝘰𝘶𝘵 𝘮𝘦</h2>
-
-<p>Olá, sou desenvolvedor FullStack, Linux evangelist, engenheiro de software e entusiasta de open-source, gosto de criar projetos e aplicativos.
-
-Nos meus projetos normalmente utilizo Javascript e Java para que tudo funcione perfeitamente. Frontend de sites é escrito em React, Mobile em React Native e no backend utilizo Java e Node.js.
-
-Eu também gosto de programação competitiva, uso Java e python para estudar algoritmos e tornar a solução mais eficiente e rápida!
-
-
+<p>
+  PT-BR: Olá! Sou Gabriel e estou trilhando meu caminho para me tornar um desenvolvedor experiente e um solucionador eficaz de problemas. Como estudante no CIn, encaro desafios que me ajudam a evoluir, tanto no âmbito profissional quanto no pessoal. Quando não estou codando ou estudando, gosto de passar um tempo de qualidade com minha família e amigos, além de ler bons livros e assistir a filmes. Sinta-se à vontade para bater um papo comigo, trocar ideias ou compartilhar conhecimento. Estou animado para fazer novas conexões em breve!
+</p>
+<p> EN-US: 𝘏𝘦𝘭𝘭𝘰 𝘵𝘩𝘦𝘳𝘦! 𝘐’𝘮 𝘎𝘢𝘣𝘳𝘪𝘦𝘭, 𝘐’𝘮 𝘰𝘯 𝘮𝘺 𝘱𝘢𝘵𝘩 𝘵𝘰 𝘣𝘦𝘤𝘰𝘮𝘦 𝘢 𝘴𝘬𝘪𝘭𝘭𝘦𝘥 𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳 𝘢𝘯𝘥 𝘢𝘯 𝘦𝘧𝘧𝘦𝘤𝘵𝘪𝘷𝘦 𝘤𝘰𝘸𝘰𝘳𝘬𝘦𝘳. 𝘈𝘴 𝘢 𝘴𝘵𝘶𝘥𝘦𝘯𝘵 @ 𝘊𝘪𝘯, 𝘐 𝘩𝘢𝘷𝘦 𝘧𝘢𝘤𝘦𝘥 𝘤𝘩𝘢𝘭𝘭𝘦𝘯𝘨𝘦𝘴 𝘵𝘩𝘢𝘵 𝘩𝘦𝘭𝘱 𝘮𝘦 𝘪𝘮𝘱𝘳𝘰𝘷𝘦 𝘢𝘯𝘥 𝘨𝘳𝘰𝘸, 𝘣𝘰𝘵𝘩 𝘱𝘳𝘰𝘧𝘦𝘴𝘴𝘪𝘰𝘯𝘢𝘭𝘭𝘺 𝘢𝘯𝘥 𝘱𝘦𝘳𝘴𝘰𝘯𝘢𝘭𝘭𝘺. 𝘞𝘩𝘦𝘯 𝘐’𝘮 𝘯𝘰𝘵 𝘤𝘰𝘥𝘪𝘯𝘨 𝘰𝘳 𝘴𝘵𝘶𝘥𝘺𝘪𝘯𝘨, 𝘐 𝘦𝘯𝘫𝘰𝘺 𝘴𝘱𝘦𝘯𝘥 𝘢 𝘨𝘰𝘰𝘥 𝘵𝘪𝘮𝘦 𝘸𝘪𝘵𝘩 𝘮𝘺 𝘧𝘢𝘮𝘪𝘭𝘺 𝘢𝘯𝘥 𝘭𝘰𝘷𝘦𝘥 𝘰𝘯𝘦𝘴, 𝘢𝘴 𝘸𝘦𝘭𝘭 𝘢𝘴 𝘳𝘦𝘢𝘥 𝘣𝘰𝘰𝘬𝘴 𝘢𝘯𝘥 𝘸𝘢𝘵𝘤𝘩 𝘮𝘰𝘷𝘪𝘦𝘴. 𝘗𝘭𝘦𝘢𝘴𝘦, 𝘧𝘦𝘦𝘭 𝘧𝘳𝘦𝘦 𝘵𝘰 𝘩𝘢𝘷𝘦 𝘢 𝘯𝘪𝘤𝘦 𝘤𝘩𝘢𝘵 𝘸𝘪𝘵𝘩 𝘮𝘦, 𝘵𝘰 𝘨𝘪𝘷𝘦 𝘮𝘦 𝘴𝘰𝘮𝘦 𝘢𝘥𝘷𝘪𝘤𝘦 𝘰𝘳 𝘴𝘩𝘢𝘳𝘦 𝘬𝘯𝘰𝘸𝘭𝘦𝘥𝘨𝘦. 𝘐 𝘭𝘰𝘰𝘬 𝘧𝘰𝘳𝘸𝘢𝘳𝘥 𝘵𝘰 𝘤𝘰𝘯𝘯𝘦𝘤𝘵 𝘸𝘪𝘵𝘩 𝘺𝘰𝘶 𝘴𝘰𝘰𝘯.
 </p>
 
 <h2>𝘚𝘬𝘪𝘭𝘭𝘴 💻 </h2>
