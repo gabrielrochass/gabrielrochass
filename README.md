@@ -72,6 +72,8 @@ Eu também gosto de programação competitiva, uso Java e python para estudar al
 </p>
 <h2>Onde me encontrar</h2>
 </a> <a href="https://www.linkedin.com/in/gabrielrochass/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-46a2f1.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+</a> <a href="https://medium.com/@grss_74794" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-46a2f1.svg?&style=for-the-badge&logo=medium&logoColor=gray&color=black" /></a>
 </p>
 
 
