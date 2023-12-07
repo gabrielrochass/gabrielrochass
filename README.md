@@ -10,7 +10,7 @@
 
 <p align='left'>
   <a href="Top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielrochass&theme=dark&layout=compact" width="350"></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=gabrielrochass&show_icons=true&count_private=true&theme=dark" width="350" height="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=gabrielrochass&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
 
