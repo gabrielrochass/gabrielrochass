@@ -12,13 +12,6 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=gabrielrochass&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
-<p align='left'>
-  
-  <a href="https://www.linkedin.com/in/gabrielrochass/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  
-</p>
 
 ####
 
@@ -76,6 +69,9 @@ Eu também gosto de programação competitiva, uso Java e python para estudar al
     <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
     <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
     <img alt="Swagger" src="https://img.shields.io/badge/-Swagger-43853d?style=flat-square&logo=swagger&logoColor=white" />
+</p>
+<h2>Onde me encontrar</h2>
+</a> <a href="https://www.linkedin.com/in/gabrielrochass/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-46a2f1.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 
