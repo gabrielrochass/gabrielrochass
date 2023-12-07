@@ -9,7 +9,7 @@
 </p>
 
 <p align='left'>
-  <a href="Top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielrochass&theme=dark&layout=compact" width="330"></a>
+  <a href="Top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielrochass&theme=dark&layout=compact" width="300"></a>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=gabrielrochass&show_icons=true&count_private=true&theme=dark" width="400"></a>
 </p>
 
