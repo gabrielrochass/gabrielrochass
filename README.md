@@ -22,10 +22,6 @@
 
 ####
 
-<details>
-<summary>
-  mais sobre mim
-</summary>
 <h2>👨 Sobre mim</h2>
 
 <p>Olá, sou desenvolvedor FullStack, Linux evangelist, engenheiro de software e entusiasta de open-source, gosto de criar projetos e aplicativos.
