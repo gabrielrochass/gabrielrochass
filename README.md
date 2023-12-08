@@ -44,4 +44,10 @@
 </a> <a href="https://www.linkedin.com/in/gabrielrochass/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-46a2f1.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@grss_74794" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-46a2f1.svg?&style=for-the-badge&logo=medium&logoColor=gray&color=black" /></a> <a href="https://leetcode.com/user4380lm/" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/leetcode-46a2f1.svg?&style=for-the-badge&logo=leetcode&logoColor=yellow&color=gray" /></a>
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 
