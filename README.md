@@ -46,5 +46,6 @@
 
 ![Snake animation](https://github.com/gabrielrochass/gabrielrochass/blob/output/github-contribution-grid-snake.svg)
 
-[![readme] (https://github-readme-stats.vercel.app/api/pin?username=gabrielrochass&repo=gabrielrochass&theme=react)] (https://github.com/gabrielrochass/gabrielrochass)
+[![readme](https://github-readme-stats.vercel.app/api/pin?username=gabrielrochass&repo=gabrielrochass&theme=react)](https://github.com/gabrielrochass/gabrielrochass)
+
 
