@@ -43,6 +43,7 @@ Roughly newest first. Where there's a live link, it's a real deployment someone 
 
 | Project | What it is | Stack | |
 |---|---|---|---|
+| [anastasios-landing-page](https://github.com/gabrielrochass/anastasios-landing-page) | Single-page site plus intelligence panel for H H Brasil, a sourcing and risk management consultancy in foreign trade. Static Next.js, hand-written WebGL2 ocean, no backend | `TypeScript` `Next.js` | [live](https://hh-brasil-landing-page.vercel.app) |
 | [e-solucoes-website](https://github.com/gabrielrochass/e-solucoes-website) | Site for E-Soluções, an occupational health and safety firm here in Recife. Services, training, blog, the whole thing | `TypeScript` `Next.js` | [live](https://e-solucoes-website.vercel.app) |
 | Beyond Class · *private* | Student portal, web app and API. Three repositories, split by concern | `TypeScript` `React` `Python` | |
 | [toca-play-app](https://github.com/gabrielrochass/toca-play-app) | Check-in system for a venue. Grew well past the original scope into events, volunteers, inventory, reports and user roles | `TypeScript` | [live](https://toca-play-app.vercel.app) |
@@ -108,29 +109,19 @@ Roughly newest first. Where there's a live link, it's a real deployment someone 
 
 ## Numbers
 
+<!-- The github-profile-summary-cards images that used to sit here (profile-details, repos-per-language, most-commit-language, stats, productive-time) were removed: that host now answers 503 DEPLOYMENT_PAUSED, so every card rendered as a broken image. Put them back if the service returns. -->
+
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrielrochass&theme=github_dark" width="100%" />
+<img src="https://img.shields.io/github/followers/gabrielrochass?style=for-the-badge&color=1F6FEB&labelColor=0D1117&logo=github&label=FOLLOWERS" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gabrielrochass&theme=github_dark" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gabrielrochass&theme=github_dark" width="49%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielrochass&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution activity over the last year" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabrielrochass&theme=github_dark" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gabrielrochass&theme=github_dark&utcOffset=-3" width="49%" />
+<img src="https://ghchart.rshah.org/1F6FEB/gabrielrochass" width="100%" alt="Contribution heatmap" />
 </div>
-
-<details>
-<summary><b>Activity graph and contribution heatmap</b></summary>
-<br>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielrochass&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF&area=true&hide_border=true" width="100%" />
-  <br><br>
-  <img src="https://ghchart.rshah.org/1F6FEB/gabrielrochass" width="100%" />
-</div>
-</details>
 
 ---
 
