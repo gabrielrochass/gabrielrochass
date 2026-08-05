@@ -31,7 +31,7 @@ The newer stuff leans web: TypeScript, Django, PostgreSQL, things that end up in
 <summary><b>A note on what you can and can't see</b></summary>
 <br>
 
-A handful of repositories here are private, mostly client work and internal projects. They still show up in my language stats and contribution graph, which is why the numbers further down sometimes look bigger than what's actually browsable. Anything marked private in the table is real, just not open.
+A handful of repositories here are private, mostly client work and internal projects. They still show up in my contribution graph, which is why the numbers further down sometimes look bigger than what's actually browsable. Anything marked private in the table is real, just not open.
 
 </details>
 
@@ -109,18 +109,22 @@ Roughly newest first. Where there's a live link, it's a real deployment someone 
 
 ## Numbers
 
-<!-- The github-profile-summary-cards images that used to sit here (profile-details, repos-per-language, most-commit-language, stats, productive-time) were removed: that host now answers 503 DEPLOYMENT_PAUSED, so every card rendered as a broken image. Put them back if the service returns. -->
+<!-- Numbers here have to come from services that actually answer. The old github-profile-summary-cards images (profile-details, repos-per-language, most-commit-language, stats, productive-time) all returned 503 DEPLOYMENT_PAUSED. A language breakdown would need several unauthenticated GitHub search calls per page load, which rate-limits and breaks the same way, so it is deliberately not here. -->
+
+Repository count is public repos only. The graphs include private commits, which is why they look busier than the table above.
 
 <div align="center">
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A//api.github.com/users/gabrielrochass&query=public_repos&style=for-the-badge&label=PUBLIC%20REPOS&color=1F6FEB&labelColor=0D1117&logo=github" />
 <img src="https://img.shields.io/github/followers/gabrielrochass?style=for-the-badge&color=1F6FEB&labelColor=0D1117&logo=github&label=FOLLOWERS" />
+<img src="https://img.shields.io/badge/ON%20GITHUB%20SINCE-DEC%202022-1F6FEB?style=for-the-badge&labelColor=0D1117&logo=github" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielrochass&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution activity over the last year" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielrochass&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contributions over the last month" />
 </div>
 
 <div align="center">
-<img src="https://ghchart.rshah.org/1F6FEB/gabrielrochass" width="100%" alt="Contribution heatmap" />
+<img src="https://ghchart.rshah.org/1F6FEB/gabrielrochass" width="100%" alt="Contribution heatmap over the last year" />
 </div>
 
 ---
@@ -150,7 +154,7 @@ O que é mais recente puxa pra web: TypeScript, Django, PostgreSQL, coisas que a
 
 ### Trabalhos recentes
 
-A tabela em inglês acima está ordenada do mais recente pro mais antigo, com links pros deploys que estão no ar. Alguns repositórios são privados, principalmente trabalho de cliente. Eles entram nas estatísticas de linguagem e no gráfico de contribuição, por isso os números às vezes parecem maiores do que o que dá pra navegar.
+A tabela em inglês acima está ordenada do mais recente pro mais antigo, com links pros deploys que estão no ar. Alguns repositórios são privados, principalmente trabalho de cliente. Eles entram no gráfico de contribuição, por isso os números às vezes parecem maiores do que o que dá pra navegar.
 
 ### Agora
 
